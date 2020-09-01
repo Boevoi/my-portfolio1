@@ -1,0 +1,77 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  list-style-position: inside;
+}
+
+html {
+
+}
+
+body {
+  background-color: #f3f4f6;
+  font-family: cursive, Standard;
+}
+
+header {
+  text-align: right;
+}
+
+section {
+
+}
+
+.container {
+  text-align: center;
+}
+
+nav {
+  font-size: 20px;
+  background-color: silver;
+  padding: 20px;
+  word-spacing: 40px;
+  padding-right: 15px;
+}
+.spacing,
+.spacing-2,
+.spacing-3 {
+  word-spacing: normal;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 250px;
+}
+.under-heading {
+  font-size: 30px;
+  text-align: center;
+}
+
+.intro {
+  margin-top: 324px;
+}
+
+.work1 {
+  left: 5px;
+}
+
+.about-work1 {
+  float: left;
+  position: absolute;
+  left: 770px;
+  top: 1200px;
+  width: 450px;
+}
+
+.new-pg {
+  position: relative;
+  font-weight: 700;
+  font-size: 20px;
+  top: -100px;
+
+}
